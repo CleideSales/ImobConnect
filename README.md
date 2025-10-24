@@ -3,7 +3,7 @@
 para rodar a aplicação siga as instruções abaixo
 ---
 ```
-cd ImobiConect
+cd ImobiConnect
 ```
 ```
 npm install
